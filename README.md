@@ -27,4 +27,4 @@ New day -> the whole cycle repeats again.  <br> <br>
 -Yes, I believe so!
 
 -Do i know how to simplify my code?<br>
--No, I don't suggestions are welcomed!
+-No, I don't. Suggestions are welcomed!
