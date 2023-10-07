@@ -49,7 +49,7 @@ def bonusIncome():
         print("Вы обслужили жадных клиентов, чаевых не получили")
         return 0
 
-  def cutomerAmnt():
+def cutomerAmnt():
     """Функция для генерации количества клиентов"""
     global wtr
     global tot_cust
