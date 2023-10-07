@@ -115,7 +115,7 @@ Please make sure the value is a multiple of 5 and between 25 and 150""")
             continue
   
 def createLemonades():
-    """Function to create lemons"""
+    """Function to create lemonade"""
     global lem_balance
     global lem_old
     while True:      
